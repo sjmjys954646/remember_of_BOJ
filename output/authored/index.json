@@ -1,0 +1,54 @@
+{
+  "totalCount": 12,
+  "problems": [
+    {
+      "problemId": 29614,
+      "title": "학점계산프로그램"
+    },
+    {
+      "problemId": 29615,
+      "title": "알파빌과 베타빌"
+    },
+    {
+      "problemId": 30407,
+      "title": "나비의 간식을 훔쳐먹은 춘배"
+    },
+    {
+      "problemId": 31562,
+      "title": "전주 듣고 노래 맞히기"
+    },
+    {
+      "problemId": 31564,
+      "title": "육각타일미로 탈출기"
+    },
+    {
+      "problemId": 31912,
+      "title": "유리병 속 무한히 터지는 기포"
+    },
+    {
+      "problemId": 32357,
+      "title": "더블팰린드롬"
+    },
+    {
+      "problemId": 32358,
+      "title": "근성아 일하자"
+    },
+    {
+      "problemId": 33709,
+      "title": "치매예방수칙 3.3.3"
+    },
+    {
+      "problemId": 33710,
+      "title": "비장의 일격 (Small)"
+    },
+    {
+      "problemId": 33716,
+      "title": "비장의 일격 (Large)"
+    },
+    {
+      "problemId": 34400,
+      "title": "민규의 서카디안 리듬"
+    }
+  ],
+  "lastUpdated": "2026-04-15T12:11:37.945Z"
+}

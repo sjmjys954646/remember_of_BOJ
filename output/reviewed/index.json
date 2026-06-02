@@ -1,0 +1,78 @@
+{
+  "totalCount": 18,
+  "problems": [
+    {
+      "problemId": 30236,
+      "title": "증가 수열"
+    },
+    {
+      "problemId": 30237,
+      "title": "합집합"
+    },
+    {
+      "problemId": 30238,
+      "title": "카드 게임"
+    },
+    {
+      "problemId": 30402,
+      "title": "감마선을 맞은 컴퓨터"
+    },
+    {
+      "problemId": 30403,
+      "title": "무지개 만들기"
+    },
+    {
+      "problemId": 30404,
+      "title": "오리와 박수치는 춘배"
+    },
+    {
+      "problemId": 30405,
+      "title": "박물관 견학"
+    },
+    {
+      "problemId": 30406,
+      "title": "산타 춘배의 선물 나눠주기"
+    },
+    {
+      "problemId": 30408,
+      "title": "춘배가 선물하는 특별한 하트"
+    },
+    {
+      "problemId": 30412,
+      "title": "산책 나온 춘배"
+    },
+    {
+      "problemId": 30413,
+      "title": "양 한 마리... 양 A마리... 양 A제곱마리..."
+    },
+    {
+      "problemId": 30414,
+      "title": "투스타 춘배"
+    },
+    {
+      "problemId": 31907,
+      "title": "GIST 찍기"
+    },
+    {
+      "problemId": 31908,
+      "title": "커플링 매치"
+    },
+    {
+      "problemId": 31909,
+      "title": "FOCUS"
+    },
+    {
+      "problemId": 31910,
+      "title": "이진수 격자"
+    },
+    {
+      "problemId": 31911,
+      "title": "ChatGPT 만들기"
+    },
+    {
+      "problemId": 33713,
+      "title": "쌓기나무"
+    }
+  ],
+  "lastUpdated": "2026-04-15T12:11:52.487Z"
+}
